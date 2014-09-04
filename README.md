@@ -1,15 +1,15 @@
-Instituto Superior Técnico
+#Instituto Superior Técnico
 
 
 
 
-Analysis and Synthesis Algorithms 
+##Analysis and Synthesis Algorithms 
 
 
-2013/2014 
+##2013/2014 
 
 
-2nd Draft 
+##2nd Draft 
 
 
 Delivery Deadline: April 23, 2014 
@@ -17,7 +17,7 @@ Delivery Deadline: April 23, 2014
 
 
 
-The Problem 
+##The Problem 
 
 
 Security is a major concern in several types of events, particularly those 
@@ -53,7 +53,7 @@ We want that at least one non-empty set of critical points is isolated from the 
 minimizing the number of connections to spread. 
 
  
-Input
+##Input
 
 The first line of input contains two integers. The first indicates the number of points n and o
 second integer number of links m.
@@ -77,7 +77,7 @@ The following are the numbers k of critical points.
 All numbers that are on the same line are separated by a blank space. 
 
 
-Output 
+##Output 
 
 For each test case should consist of the output line h, each with only one number, 
 the minimum number of links to spread to the respective problem. The order of the numbers must 
@@ -86,9 +86,9 @@ digits of the answer and the '\ n'.
 
 
 
-Examples 
+##Examples 
 
-Input 1
+#Input 1
 
 4 4 
 0 2 
@@ -99,14 +99,14 @@ Input 1
 2 1 0 
 2 0 2 
 
-Output 1
+#Output 1
 
 2 
 2 
 2
 
 
-Input 2 
+#Input 2 
 
 5 5 
 0 2 
@@ -117,12 +117,12 @@ Input 2
 1 
 0 1 3 4 
 
-Output 2 
+#Output 2 
 
 1 
 
 
-Input 3 
+#Input 3 
 
 6 4 
 0 4 
@@ -132,13 +132,13 @@ Input 3
 1 
 2 1 0 
 
-Output 3 
+#Output 3 
 
 2 
 
 
 
-Implementation
+##Implementation
 
 The implementation of the project should be done preferably using programming languages 
 C or C ++. Submissions Java language will not be accepted. 
@@ -171,7 +171,7 @@ submission of reports.
 
 
 
-Rating 
+##Rating 
 
 The project should be done individually and will be evaluated in two phases. The first 
 phase, during submission, each implementation will run a set of tests, which 
@@ -180,7 +180,7 @@ contributes 20% of the final grade.
 
 
 
-Automatic evaluation 
+##Automatic evaluation 
 
 The first phase is automatically evaluated with a test set, which are 
 executed on a computer with GNU / Linux operating system. It is essential that the code 
@@ -190,9 +190,7 @@ If all tests fail. A reduced set of tests used by Mooshak system
 will be public. Most tests will not be disclosed before submission. However, 
 all tests will be available after the deadline for submission of the project. In addition to checking 
 the correction of the output produced, the evaluation environment restricts the memory and time 
-available execution. Most of the tests runs the diff as follows: 
-
-4 
+available execution. Most of the tests runs the diff as follows:
 
 diff output result 
 
@@ -203,7 +201,7 @@ tests. Thus, the system reports a value between 0 and 16.
 
 
 
-Detection of Copies 
+##Detection of Copies 
 
 The evaluation of project includes a procedure for detection of copies. Submission of a 
 project involves a commitment that the work was done exclusively by the student. 
