@@ -86,9 +86,9 @@ digits of the answer and the '\ n'.
 
 
 
-##Examples 
+###Examples 
 
-#Input 1
+####Input 1
 
 ```
 4 4 
@@ -101,7 +101,7 @@ digits of the answer and the '\ n'.
 2 0 2
 ```
 
-#Output 1
+####Output 1
 
 ```
 2 
@@ -110,7 +110,7 @@ digits of the answer and the '\ n'.
 ```
 
 
-#Input 2 
+####Input 2 
 
 ```
 5 5 
@@ -123,14 +123,14 @@ digits of the answer and the '\ n'.
 0 1 3 4
 ```
 
-#Output 2 
+####Output 2 
 
 ```
 1
 ```
 
 
-#Input 3 
+####Input 3 
 
 ```
 6 4 
@@ -142,7 +142,7 @@ digits of the answer and the '\ n'.
 2 1 0
 ```
 
-#Output 3 
+####Output 3 
 
 ```
 2
