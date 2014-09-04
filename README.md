@@ -90,6 +90,7 @@ digits of the answer and the '\ n'.
 
 #Input 1
 
+```
 4 4 
 0 2 
 0 3 
@@ -97,17 +98,21 @@ digits of the answer and the '\ n'.
 1 3 
 2 
 2 1 0 
-2 0 2 
+2 0 2
+```
 
 #Output 1
 
+```
 2 
 2 
 2
+```
 
 
 #Input 2 
 
+```
 5 5 
 0 2 
 0 3 
@@ -115,26 +120,33 @@ digits of the answer and the '\ n'.
 1 3 
 0 4 
 1 
-0 1 3 4 
+0 1 3 4
+```
 
 #Output 2 
 
-1 
+```
+1
+```
 
 
 #Input 3 
 
+```
 6 4 
 0 4 
 0 5 
 1 4 
 1 5 
 1 
-2 1 0 
+2 1 0
+```
 
 #Output 3 
 
-2 
+```
+2
+```
 
 
 
